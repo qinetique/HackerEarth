@@ -1,4 +1,4 @@
-Problem
+## Problem <br>
 You are required to enter a word that consists of 
  and 
  that denote the number of Zs and Os respectively. The input word is considered similar to word zoo if 
